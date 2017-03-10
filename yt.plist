@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
@@ -20,7 +19,7 @@
 <key>needs-shine</key>
 <true/>
 <key>url</key>
-<string>http://www.xxxx.com/uploads/soft/150518/Icon@2x.png</string>
+<string>http://i.niupic.com/images/2017/03/10/f44TJE.png</string>
 </dict>
 <dict>
 <key>kind</key>
@@ -28,19 +27,20 @@
 <key>needs-shine</key>
 <true/>
 <key>url</key>
-<string>http://www.xxxx.com/uploads/soft/150518/Icon.png</string>
+<string>http://i.niupic.com/images/2017/03/10/HifUlc.png
+</string>
 </dict>
 </array>
 <key>metadata</key>
 <dict>
 <key>bundle-identifier</key>
-<string>app.xiaofangtt.m</string>
+<string>one.ajyaguru.ones</string>
 <key>bundle-version</key>
-<string>1.0</string>
+<string>1.1</string>
 <key>kind</key>
 <string>software</string>
 <key>title</key>
-<string>Installing the app</string>
+<string>樱桃TV</string>
 </dict>
 </dict>
 </array>
